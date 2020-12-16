@@ -9,17 +9,17 @@ While only a few activities are currently available, contributions of ideas or f
 - DNA Extraction
 - DNA Sequencing
 - Data Cleanup
-  - [Contaminant Removal: Sequence Search](https://github.com/krwaring/metagenomic-activity-book/blob/main/Activity%20Files/DataCleanup-ContaminantRemoval.pdf), *[[Answer Key](https://github.com/krwaring/metagenomic-activity-book/tree/main/Activity%20Files/Answer%20Key/AK_DataCleanup-ContaminantRemoval.pdf)]*
-  - [Quality Filtering: Phred Translation and Plotting](https://github.com/krwaring/metagenomic-activity-book/blob/main/Activity%20Files/DataCleanup-QualityFiltering.pdf)
+  - [Contaminant Removal: Sequence Search](https://github.com/krwaring/metagenomic-activity-book/blob/main/Activity%20Files/DataCleanup-ContaminantRemoval.pdf) *[[Answer Key](https://github.com/krwaring/metagenomic-activity-book/tree/main/Activity%20Files/Answer%20Key/AK_DataCleanup-ContaminantRemoval.pdf)]*
+  - [Quality Filtering: Phred Translation and Plotting](https://github.com/krwaring/metagenomic-activity-book/blob/main/Activity%20Files/DataCleanup-QualityFiltering.pdf) *[[Answer Key](https://github.com/krwaring/metagenomic-activity-book/tree/main/Activity%20Files/Answer%20Key/AK_DataCleanup-QualityFiltering.pdf)]*
 - Assembly
-  - [Rhyme Reconstruction](https://github.com/krwaring/metagenomic-activity-book/blob/main/Activity%20Files/Assembly.pdf)
+  - [Rhyme Reconstruction](https://github.com/krwaring/metagenomic-activity-book/blob/main/Activity%20Files/Assembly.pdf) *[[Answer Key](https://github.com/krwaring/metagenomic-activity-book/tree/main/Activity%20Files/Answer%20Key/AK_Assembly.pdf)]*
 - Read Mapping
-  - [Rhyme Coverage](https://github.com/krwaring/metagenomic-activity-book/blob/main/Activity%20Files/ReadMapping.pdf)
+  - [Rhyme Coverage](https://github.com/krwaring/metagenomic-activity-book/blob/main/Activity%20Files/ReadMapping.pdf) *[[Answer Key](https://github.com/krwaring/metagenomic-activity-book/tree/main/Activity%20Files/Answer%20Key/AK_ReadMapping.pdf)]*
 
 ## Answer Keys for Activities
-- Data Cleanup: [Contaminant Removal](https://github.com/krwaring/metagenomic-activity-book/tree/main/Activity%20Files/Answer%20Key/AK_DataCleanup-ContaminantRemoval.pdf), [Quality Filtering](https://github.com/krwaring/metagenomic-activity-book/tree/main/Activity%20Files/Answer%20Key/AK_DataCleanup-QualityFiltering.pdf)
-- [Assembly](https://github.com/krwaring/metagenomic-activity-book/tree/main/Activity%20Files/Answer%20Key/AK_Assembly.pdf)
-- [Read Mapping](https://github.com/krwaring/metagenomic-activity-book/tree/main/Activity%20Files/Answer%20Key/AK_ReadMapping.pdf)
+
+- [Assembly]()
+- [Read Mapping]()
 
 ## Future Ideas
 - Add activities with increasing levels of complexity for each module.
