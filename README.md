@@ -6,16 +6,16 @@ While only a few activities are currently available, contributions of ideas or f
 ## The Activity Book, [current version]()
 
 ## Individual Activities
-DNA Extraction
-DNA Sequencing
-Data Cleanup: [Contaminant Removal](), [Quality Filtering]()
-[Assembly]()
-[Read Mapping]()
+- DNA Extraction
+- DNA Sequencing
+- Data Cleanup: [Contaminant Removal](), [Quality Filtering]()
+- [Assembly]()
+- [Read Mapping]()
 
 ## Answer Key for Activities
-Data Cleanup: [Contaminant Removal](), [Quality Filtering]()
-[Assembly]()
-[Read Mapping]()
+- Data Cleanup: [Contaminant Removal](), [Quality Filtering]()
+- [Assembly]()
+- [Read Mapping]()
 
 ## Future Ideas
 - Add activities with increasing levels of complexity for each module.
