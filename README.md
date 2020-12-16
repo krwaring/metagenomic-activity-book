@@ -8,14 +8,14 @@ While only a few activities are currently available, contributions of ideas or f
 ## Individual Activities
 - DNA Extraction
 - DNA Sequencing
-- Data Cleanup: [Contaminant Removal](), [Quality Filtering]()
-- [Assembly]()
-- [Read Mapping]()
+- Data Cleanup: [Contaminant Removal](https://github.com/krwaring/metagenomic-activity-book/blob/main/Activity%20Files/Data Cleanup- Contaminant Removal.pdf), [Quality Filtering](https://github.com/krwaring/metagenomic-activity-book/blob/main/Activity%20Files/Data Cleanup- Quality Filtering.pdf)
+- [Assembly](https://github.com/krwaring/metagenomic-activity-book/blob/main/Activity%20Files/Assembly.pdf)
+- [Read Mapping](https://github.com/krwaring/metagenomic-activity-book/blob/main/Activity%20Files/Read Mapping.pdf)
 
-## Answer Key for Activities
-- Data Cleanup: [Contaminant Removal](), [Quality Filtering]()
-- [Assembly]()
-- [Read Mapping]()
+## Answer Keys for Activities
+- Data Cleanup: [Contaminant Removal](https://github.com/krwaring/metagenomic-activity-book/tree/main/Activity%20Files/Answer%20Key/AK_Data Cleanup- Contaminant Removal.pdf), [Quality Filtering](https://github.com/krwaring/metagenomic-activity-book/tree/main/Activity%20Files/Answer%20Key/AK_Data Cleanup- Quality Filtering.pdf)
+- [Assembly](https://github.com/krwaring/metagenomic-activity-book/tree/main/Activity%20Files/Answer%20Key/AK_Assembly.pdf)
+- [Read Mapping](https://github.com/krwaring/metagenomic-activity-book/tree/main/Activity%20Files/Answer%20Key/AK_Read Mapping.pdf)
 
 ## Future Ideas
 - Add activities with increasing levels of complexity for each module.
