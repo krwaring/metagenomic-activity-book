@@ -16,16 +16,11 @@ While only a few activities are currently available, contributions of ideas or f
 - Read Mapping
   - [Rhyme Coverage](https://github.com/krwaring/metagenomic-activity-book/blob/main/Activity%20Files/ReadMapping.pdf) *[[Answer Key](https://github.com/krwaring/metagenomic-activity-book/tree/main/Activity%20Files/Answer%20Key/AK_ReadMapping.pdf)]*
 
-## Answer Keys for Activities
-
-- [Assembly]()
-- [Read Mapping]()
-
 ## Future Ideas
 - Add activities with increasing levels of complexity for each module.
 - Digitize activities so that can be performed interactively without needing to be printed off.
 - Add a narrative element to the activities (e.g. tie them into an overarching story).
-*You are invited to add any activity ideas of your own to this open source collection.*
+*You are invited to add any activity ideas of your own to this open source collection!*
 
 # Resources Consulted
 
