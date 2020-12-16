@@ -23,8 +23,8 @@ Each of the activities included in this repo can be printed off individually to 
 - Add a narrative element to the workbook activities that ties them all together (for example, a story line that puts performance of the activities into a greater context).
 *You are invited to add any activity ideas of your own to this open source collection!*
 
-# Resources Consulted
-- Dr Ryan Ziels and Dr Steven Hallam, various discussions.
+## Resources Consulted
+- Various discussion with Dr Ryan Ziels (who had the idea of a torn-up newspaper used as an analogy in the assembly activity) and Dr Steven Hallam. 
 - [Brown, C. (2012). The Assembly Exercise - teaching de novo assembly to students.](http://ivory.idyll.org/blog/the-assembly-exercise.html)
 - [Eren, A. (2020). Microbial 'Omics: An introduction](https://merenlab.org/momics/)
 - [Lee, M. (2020). Happy Belly Bioinformatics](https://astrobiomike.github.io/)
