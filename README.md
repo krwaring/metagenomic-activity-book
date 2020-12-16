@@ -9,7 +9,7 @@ While only a few activities are currently available, contributions of ideas or f
 - DNA Extraction
 - DNA Sequencing
 - Data Cleanup
-  - [Contaminant Removal: Sequence Search](https://github.com/krwaring/metagenomic-activity-book/blob/main/Activity%20Files/DataCleanup-ContaminantRemoval.pdf), [Answer Key](https://github.com/krwaring/metagenomic-activity-book/tree/main/Activity%20Files/Answer%20Key/AK_DataCleanup-ContaminantRemoval.pdf)
+  - [Contaminant Removal: Sequence Search](https://github.com/krwaring/metagenomic-activity-book/blob/main/Activity%20Files/DataCleanup-ContaminantRemoval.pdf), *[[Answer Key](https://github.com/krwaring/metagenomic-activity-book/tree/main/Activity%20Files/Answer%20Key/AK_DataCleanup-ContaminantRemoval.pdf)]*
   - [Quality Filtering: Phred Translation and Plotting](https://github.com/krwaring/metagenomic-activity-book/blob/main/Activity%20Files/DataCleanup-QualityFiltering.pdf)
 - Assembly
   - [Rhyme Reconstruction](https://github.com/krwaring/metagenomic-activity-book/blob/main/Activity%20Files/Assembly.pdf)
