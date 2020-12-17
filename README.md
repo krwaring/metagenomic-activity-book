@@ -3,7 +3,7 @@ This repo is intended to serve as a resource for the introductory level metageno
 
 Each of the activities included in this repo can be printed off individually to supplement coverage of a specific topic, or workbook-style. While only four activities are currently available, contributions of activity ideas or fully formed activity sheets are being sought.
 
-## [The Full Activity Book]()
+## [The Full Activity Book](https://github.com/krwaring/metagenomic-activity-book/blob/main/Activity%20Files/MetagenomicActivityWorkbook.pdf)
 
 ## Individual Activities
 - Data Cleanup
